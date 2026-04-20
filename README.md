@@ -1,7 +1,7 @@
 
 REVIVE AND REWEAR
 
-A group project for Advanced Software Engineering Course(IT426)
+
 
 INTRODUCTION
 
